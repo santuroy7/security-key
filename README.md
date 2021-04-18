@@ -1,5 +1,6 @@
 # security-key
-enter three numbers of 4 digits to make a security key
-find the smallest digits from the eaah number & add them = s1 
-find the max digits from the eaah number & add them =s2
- then key will be =(s1-s2)
+- It will ask the user to enter three numbers of four digits as an input
+to make the security Key.
+- After that it will display a Key to the user.
+- If a user enters 5678 2341 1256 as three numbers then Key will be
+(5+1+1)-(8+4+6)=-11.
