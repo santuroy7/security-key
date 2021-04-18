@@ -1,4 +1,4 @@
-# security-key
+# Security Key 
 - It will ask the user to enter three numbers of four digits as an input
 to make the security Key.
 - After that it will display a Key to the user.
